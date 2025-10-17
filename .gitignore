@@ -1,0 +1,19 @@
+# Môi trường ảo của Python
+venv/
+
+# Thư mục cache của Python
+__pycache__/
+*.pyc
+
+# File chứa các biến môi trường nhạy cảm
+.env
+
+# File database SQLite (nếu có dùng)
+db.sqlite3
+*.sqlite3
+
+# Thư mục chứa file tĩnh được thu thập
+staticfiles/
+
+# Thư mục media
+mediafiles/
